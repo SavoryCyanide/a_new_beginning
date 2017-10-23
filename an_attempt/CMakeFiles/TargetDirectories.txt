@@ -1,0 +1,3 @@
+/home/user/Desktop/computer_vision/an_attempt/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/computer_vision/an_attempt/CMakeFiles/cv_program.dir
+/home/user/Desktop/computer_vision/an_attempt/CMakeFiles/edit_cache.dir
